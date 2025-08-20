@@ -6,7 +6,7 @@ This repository contains the demo website for the paper:
 **"Bridging Clear and Adverse Driving Conditions: Domain Adaptation with Simulation, Diffusion, and GANs"**
 
 🌐 [View the interactive site](https://yahiashowgan.github.io/bridging-driving-conditions/)  
-📄 Paper coming soon!
+📄 [Paper](https://arxiv.org/abs/2508.13592)
 
 ---
 
@@ -33,7 +33,7 @@ Our pipeline improves downstream perception tasks (semantic segmentation, object
 ## Links
 
 - 🌐 [Interactive Site](https://yahiashowgan.github.io/bridging-driving-conditions/)
-- 📄 Paper: Coming soon
+- 📄 [Paper](https://arxiv.org/abs/2508.13592)
 
 ---
 
